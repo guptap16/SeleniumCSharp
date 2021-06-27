@@ -1,0 +1,280 @@
+﻿Log level is set to Informational (Default).
+Test data store opened in 0.103 sec.
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 2.2 sec ==========
+Starting test discovery for requested test run
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 767 ms ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+========== Test run finished: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+Executing all tests in file: BaseTest.cs
+========== Starting test run ==========
+========== Test run finished: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+Build failed or it was cancelled.
+Executing all tests in file: BaseTest.cs
+========== Starting test run ==========
+========== Test run finished: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+No test is available in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+========== Test discovery finished: 0 Tests found in 782 ms ==========
+Executing all tests in file: BaseTest.cs
+========== Starting test run ==========
+========== Test run finished: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+========== Test run finished: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+No test is available in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+========== Test discovery finished: 0 Tests found in 1.1 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+No test is available in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+========== Test discovery finished: 0 Tests found in 1.1 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 813 ms ==========
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 587.7 ms ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 7.6 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 4.3 sec ==========
+No tests found to run.
+Build failed or it was cancelled.
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+========== Test run finished: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+Executing all tests in project: MortgageCadenceDemo
+========== Starting test run ==========
+========== Test run finished: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 7.8 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 830.3 ms ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 4 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 4.5 sec ==========
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Debugging selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+The active test run was aborted. Reason: Test host process crashed
+========== Test run aborted: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 12 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 11.6 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 12.7 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 12.7 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 12.6 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 12.8 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 12.8 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 12.7 sec ==========
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Debugging selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+The active test run was aborted. Reason: Test host process crashed
+========== Test run aborted: 0 Tests (0 Passed, 0 Failed, 0 Skipped) run in < 1 ms ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.2 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 12.7 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 12.8 sec ==========
+Build failed or it was cancelled.
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 17.8 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (0 Passed, 1 Failed, 0 Skipped) run in 21.2 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 22.9 sec ==========
+========== Starting test discovery ==========
+NUnit Adapter 3.17.0.0: Test discovery starting
+NUnit Adapter 3.17.0.0: Test discovery complete
+========== Test discovery finished: 1 Tests found in 1.1 sec ==========
+Executing all tests in file: ContactUs.cs
+========== Starting test run ==========
+NUnit Adapter 3.17.0.0: Test execution started
+Running selected tests in C:\Users\Priyanka gupta\OneDrive\Documents\SeCSharpDemo\SeleniumCSharp\MortgageCadenceDemo\bin\Debug\MortgageCadenceDemo.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases
+Submit Button is clicked
+
+NUnit Adapter 3.17.0.0: Test execution complete
+========== Test run finished: 1 Tests (1 Passed, 0 Failed, 0 Skipped) run in 22.8 sec ==========
